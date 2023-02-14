@@ -1,0 +1,17 @@
+#round {
+    background-color: #1ea657;
+    color: #efefef;
+    border: none;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 100%;
+  }
+
+  #roundDec {
+    background-color: #a61e30;
+    color: #efefef;
+    border: none;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 100%;
+  }
